@@ -7,8 +7,8 @@ require_once 'vendor/autoload.php';
 
 
 // initiate configuration
-$clientID = '23450593650-pi823hv46lh8uchpdapq6ogjliev2i2o.apps.googleusercontent.com';
-$clientSecret = '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';
+$clientID = 'YOUR-CLIENT-ID';
+$clientSecret = 'YOUR-CLIENT-SECTRET';
 $redirectUri = 'http://localhost/SocialMe/home.php';
 
 
